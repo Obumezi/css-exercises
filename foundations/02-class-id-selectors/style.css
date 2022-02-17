@@ -1,0 +1,22 @@
+.odd_numbers{
+background-color: #FFA7A7;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+#number2{
+color: blue;
+font-size: 36px;
+}
+
+.odd_numbers number3{
+font-size: 24px;
+}
+
+#number4{
+background-color: lightgreen;
+font-weight: bold;
+font-size: 24px;
+}
